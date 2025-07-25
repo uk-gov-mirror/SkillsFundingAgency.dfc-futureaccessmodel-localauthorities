@@ -3,3 +3,5 @@ variables:
   value: PP
 - name: FunctionAppName
   value: dfc-pp-fam-la-fa-ver2
+- name: sharedKeyVaultName
+  value: dfc-pp-shared-kv

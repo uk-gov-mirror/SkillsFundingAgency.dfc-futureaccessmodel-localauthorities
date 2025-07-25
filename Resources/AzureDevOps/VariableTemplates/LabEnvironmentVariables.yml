@@ -3,3 +3,5 @@ variables:
   value: LAB
 - name: FunctionAppName
   value: dfc-lab-fam-la-fa
+- name: sharedKeyVaultName
+  value: dfc-lab-shared-kv

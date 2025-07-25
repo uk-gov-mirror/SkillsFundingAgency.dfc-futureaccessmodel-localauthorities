@@ -3,3 +3,5 @@ variables:
   value: DEV
 - name: FunctionAppName
   value: dfc-dev-fam-la-fa
+- name: sharedKeyVaultName
+  value: dfc-dev-shared-kv

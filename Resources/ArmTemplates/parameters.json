@@ -19,6 +19,9 @@
         },
         "functionAppName": {
             "value": "__FunctionAppName__"
-        }
+        },
+        "keyVaultName": {
+            "value": "__sharedKeyVaultName__"
+        }    
     }
 }
