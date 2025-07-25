@@ -3,3 +3,5 @@ variables:
   value: SIT
 - name: FunctionAppName
   value: dfc-sit-fam-la-fa
+- name: sharedKeyVaultName
+  value: dfc-sit-shared-kv

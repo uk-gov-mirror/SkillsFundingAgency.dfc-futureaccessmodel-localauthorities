@@ -16,6 +16,9 @@
         },
         "functionAppName": {
             "value": "dfc-foo-fam-la-fa-ver2"
+        },
+        "keyVaultName": {
+            "value": "dfc-dev-shared-kv"
         }
     }
 }

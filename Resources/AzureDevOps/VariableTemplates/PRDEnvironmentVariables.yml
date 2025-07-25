@@ -3,3 +3,5 @@ variables:
   value: PRD
 - name: FunctionAppName
   value: dfc-prd-fam-la-fa-ver2
+- name: sharedKeyVaultName
+  value: dfc-prd-shared-kv
